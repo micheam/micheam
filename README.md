@@ -1,4 +1,6 @@
-<img src="cover_shin.jpg" width=100% />
+<a href="https://lapras.com/public/micheam">
+    <img src="cover_shin.jpg" width=100% />
+</a>
 
 <a href="#">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=micheam&theme=graywhite&show_icons=true&count_private=true&hide_border=true"
